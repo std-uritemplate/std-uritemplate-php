@@ -1,3 +1,11 @@
+<a id="v2.0.1"></a>
+# [v2.0.1](https://github.com/std-uritemplate/std-uritemplate/releases/tag/v2.0.1) - 2024-11-15
+
+
+
+[Changes][v2.0.1]
+
+
 <a id="2.0.1"></a>
 # [2.0.1](https://github.com/std-uritemplate/std-uritemplate/releases/tag/2.0.1) - 2024-11-12
 
@@ -30,6 +38,7 @@
 [Changes][1.0.5]
 
 
+[v2.0.1]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.1...v2.0.1
 [2.0.1]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/std-uritemplate/std-uritemplate/compare/1.0.6...2.0.0
 [1.0.6]: https://github.com/std-uritemplate/std-uritemplate/compare/1.0.5...1.0.6

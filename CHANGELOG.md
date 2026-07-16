@@ -1,7 +1,34 @@
+<a id="2.0.12"></a>
+# [2.0.12](https://github.com/std-uritemplate/std-uritemplate/releases/tag/2.0.12) - 2026-07-16
+
+
+
+[Changes][2.0.12]
+
+
 <a id="2.0.11"></a>
 # [2.0.11](https://github.com/std-uritemplate/std-uritemplate/releases/tag/2.0.11) - 2026-07-06
 
+<!-- Release notes generated using configuration in .github/release.yml at 2.0.11 -->
 
+## What's Changed
+### Other Changes
+* ci: removes unbuild due to security advisories and lack of maintenance by [@baywet](https://github.com/baywet) in [#494](https://github.com/std-uritemplate/std-uritemplate/pull/494)
+* build: bump csharp to 46095e0 by [@ricardoboss](https://github.com/ricardoboss) in [#502](https://github.com/std-uritemplate/std-uritemplate/pull/502)
+### Dependencies 📦
+* build(deps): bump github.com/std-uritemplate/std-uritemplate/go/v2 from 2.0.8 to 2.0.10 in /go by [@dependabot](https://github.com/dependabot)[bot] in [#489](https://github.com/std-uritemplate/std-uritemplate/pull/489)
+* build(deps): bump serde_json from 1.0.149 to 1.0.150 in /rust by [@dependabot](https://github.com/dependabot)[bot] in [#491](https://github.com/std-uritemplate/std-uritemplate/pull/491)
+* build(deps-dev): bump puppeteer from 25.0.4 to 25.1.0 in /typescript by [@dependabot](https://github.com/dependabot)[bot] in [#492](https://github.com/std-uritemplate/std-uritemplate/pull/492)
+* build(deps): bump csharp from `0013db7` to `c175b5c` by [@dependabot](https://github.com/dependabot)[bot] in [#493](https://github.com/std-uritemplate/std-uritemplate/pull/493)
+* build(deps-dev): bump org.sonatype.central:central-publishing-maven-plugin from 0.10.0 to 0.11.0 in /java by [@dependabot](https://github.com/dependabot)[bot] in [#495](https://github.com/std-uritemplate/std-uritemplate/pull/495)
+* build(deps): bump actions/checkout from 6 to 7 by [@dependabot](https://github.com/dependabot)[bot] in [#496](https://github.com/std-uritemplate/std-uritemplate/pull/496)
+* build(deps): bump csharp from `c175b5c` to `5783ec4` by [@dependabot](https://github.com/dependabot)[bot] in [#497](https://github.com/std-uritemplate/std-uritemplate/pull/497)
+* build(deps-dev): bump puppeteer from 25.1.0 to 25.2.0 in /typescript by [@dependabot](https://github.com/dependabot)[bot] in [#498](https://github.com/std-uritemplate/std-uritemplate/pull/498)
+* build(deps-dev): bump puppeteer from 25.2.0 to 25.2.1 in /typescript by [@dependabot](https://github.com/dependabot)[bot] in [#499](https://github.com/std-uritemplate/std-uritemplate/pull/499)
+* build(deps-dev): bump puppeteer from 25.2.1 to 25.3.0 in /typescript by [@dependabot](https://github.com/dependabot)[bot] in [#500](https://github.com/std-uritemplate/std-uritemplate/pull/500)
+
+
+**Full Changelog**: https://github.com/std-uritemplate/std-uritemplate/compare/v2.0.10...2.0.11
 
 [Changes][2.0.11]
 
@@ -219,6 +246,7 @@
 [Changes][1.0.5]
 
 
+[2.0.12]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.11...2.0.12
 [2.0.11]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.10...2.0.11
 [2.0.10]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.9...2.0.10
 [2.0.9]: https://github.com/std-uritemplate/std-uritemplate/compare/2.0.8...2.0.9
